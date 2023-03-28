@@ -1,0 +1,54 @@
+body {
+    margin: 10% 30%;
+    padding: 0;
+    color: white;
+    display: flex;
+
+}
+
+[src="./assests/media/task1image.jpg "] {
+    width: 400px;
+    height: 200px;
+}
+
+.content {
+    background-color: #add9e6;
+    width: 400px;
+    height: 260px;
+    display: flex;
+    align-items: center;
+
+}
+
+
+
+.padding {
+    background-color: #abff2f;
+    padding: 45px;
+    width: 420px;
+    height: 220px;
+    display: flex;
+    align-items: center;
+
+}
+
+.border {
+    width: 470px;
+    height: 280px;
+    padding: 40px;
+    background-color: #fdfe03;
+    display: flex;
+    align-items: center;
+
+}
+
+.margin {
+    background-color: #fea500;
+    width: 590px;
+    height: 330px;
+    padding: 50px;
+    display: flex;
+    align-items: center;
+
+
+}

@@ -1,0 +1,28 @@
+* {
+    background-color:#faf3e3;
+    font-family: sans-serif;
+    
+}
+
+div {
+    margin-left: 30px;
+    text-align: center;
+}
+
+h1 {
+    font-weight: normal;
+    border-bottom: 2px solid #b8d2d1;
+    margin: auto 120px;
+}
+
+p {
+    font-size: 17px;
+}
+
+h2 {
+    color: #c0704f;
+}
+
+h2,p {
+    margin-left: 140px;
+}
